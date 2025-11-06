@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://skill-joy.github.io/math-drills-site/sitemap.xml
+Sitemap: https://skill-joy.github.io/math-drillz-site/sitemap.xml
 
